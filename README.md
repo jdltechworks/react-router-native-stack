@@ -1,9 +1,10 @@
 # react-router-native-stack
 
-[![npm version](https://img.shields.io/npm/v/react-router-native-stack.svg?style=flat-square)](https://www.npmjs.com/package/react-router-native-stack)
-[![downloads](https://img.shields.io/npm/dm/react-router-native-stack.svg?style=flat-square)](https://www.npmjs.com/package/react-router-native-stack)
+A Stack component for React Router v5 on React Native.
 
-A Stack component for React Router v4 on React Native.
+## About
+
+This is refactored version of [react-router-native-stack](https://github.com/Traviskn/react-router-native-stack). Spent hours to refactor this to match an up to date ReactJS approach. As of the moment 150 lines are stripped and more code review and performance enhancements to be done. Stay tuned.
 
 ## Disclaimer
 
